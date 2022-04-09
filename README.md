@@ -29,7 +29,7 @@
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/DGXeon/DogeBot2/blob/master/session.json#L1)
+[`Click Here`](https://github.com//DogeBot2/blob/master/session.json#L1)
 
 ## `SETTINGS`
 
@@ -46,7 +46,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 heroku/nodejs
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/DogeBot3/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https:/shinas321/github.com/DGXeon/DogeBot3/)
 
 # Install Manually 👇
 ## `Requirements`
